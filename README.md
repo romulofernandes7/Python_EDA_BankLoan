@@ -1,2 +1,2 @@
 # Python_EDA_BankLoan
-Análise Exploratória de Dados em Python de Empréstimo Bancário
+Análise Exploratória de Dados em Python sobre um dataset de empréstimos bancários
